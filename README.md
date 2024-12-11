@@ -14,4 +14,7 @@ Bu yöntem, Android telefonunuzda geliştirici seçeneklerinin ve USB hata ayık
 Excel Dosyasının Yapısı:
 Bu örnek, telefon numaralarının 1. sütunda yer aldığı varsayımıyla yazıldı. Eğer telefon numaralarınız farklı bir sütunda yer alıyorsa, max_col=1 parametresini uygun sütun numarasıyla değiştirmeniz gerekir. Örneğin, telefon numaraları 2. sütunda ise, max_col=2 şeklinde değiştirirsiniz.
 
-Telefonunuzu usb yardımıyla bilgisayarınıza bağlayın ve # python sms.py çalıştırmasını yapın
+Telefonunuzu usb yardımıyla bilgisayarınıza bağlayın ve 
+# python sms.py
+
+çalıştırmasını yapın
